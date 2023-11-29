@@ -5,7 +5,7 @@
 > Minha versão do que aprendi no 1º desafio do curso Explorer da Rocketseat
 
 ## Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/moveis-customizados/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/decoracao-natalina/)
 
 ## 🛠 Tecnologias
 > Tecnologias usadas para desenvolver a página
