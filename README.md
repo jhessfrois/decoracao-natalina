@@ -1,4 +1,4 @@
-# Página Aulas de Skate
+# Página Decoração Natalina
 
 ![preview](/.github/preview.png)
 
@@ -8,7 +8,7 @@
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/moveis-customizados/)
 
 ## 🛠 Tecnologias
-> Tecnologias usadas para desenvolver o jogo
+> Tecnologias usadas para desenvolver a página
 
 - HTML
 - CSS
